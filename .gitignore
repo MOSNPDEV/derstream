@@ -1,0 +1,6 @@
+KARAFKA_CREDENTIALS.JSON
+TWITTER_CREDENTIALS.JSON
+env
+19pumacj-sasl-scram
+*.txt
+*.npy
